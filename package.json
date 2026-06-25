@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abrahamjust/Mini_Message_Board.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/abrahamjust/Mini_Message_Board/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/abrahamjust/Mini_Message_Board#readme",
+  "homepage": "",
   "dependencies": {
     "ejs": "^6.0.1",
     "express": "^5.2.1"
